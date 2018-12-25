@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="Software/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Software/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="Software/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="Software/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Software/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Software/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Software/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Software/extentreports-2.41.2.jar" sourcepath="Software/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="Software/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Software/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Software/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="Software/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
